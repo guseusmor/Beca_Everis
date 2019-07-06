@@ -1,0 +1,4 @@
+"DevOps for Digital Leaders","Aruna Ravichandran","978-1484218419",2016
+"The Clean Coder: A Code of Conduct for Professional Programmers","Robert C. Martin","978-0137081073",2011
+"Cerebus - Volume 1","Dave Sim","978-0919359086",1991
+"Blood & Water (Noble Causes - Vol. 4)","Jay Faerber","978-1582405360",2005
